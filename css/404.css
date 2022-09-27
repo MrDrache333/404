@@ -16,10 +16,10 @@
 #fof canvas,
 #fof img {
 	position: relative;
-	width: 960px;
-	height: 480px;
+	width: 100%;
+	height: 100%;
 	margin-bottom: 20px;
 	z-index: 1;
-	
+
 	background: #000;
 }
